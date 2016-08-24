@@ -8,5 +8,7 @@ url: "" # the base hostname & protocol for your site
 slack_username: forkonlp
 github_username: forkonlp
 
+show_disclaimer: true
+
 # Build settings
 markdown: kramdown
